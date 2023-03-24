@@ -1,4 +1,4 @@
-[Workflow 中文介绍](https://github.com/sogou/workflow/blob/master/README_cn.md)
+[3月24日开始 Workflow 中文介绍](https://github.com/sogou/workflow/blob/master/README_cn.md)
 
 [Windows Build Guide in English](/README.md)
 
